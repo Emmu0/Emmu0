@@ -23,6 +23,7 @@ With 2+ years of hands-on experience in full-stack development, I specialize in 
 - Email: [PrinceParmar@gmail.com](prince0parmar@gmail.com)
 - LinkedIn: [Prince Parmar](https://www.linkedin.com/in/prince-raja-parmar-200454135/)
 - Skype: live:pp436643
+  
 Feel free to reach out—I’m always up for a chat about technology, innovation, or potential opportunities!
 
 
