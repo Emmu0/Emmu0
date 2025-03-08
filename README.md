@@ -1,16 +1,16 @@
 
 # Hi there, I'm Prince Parmar! 👋
 
-With 2+ years of hands-on experience in full-stack development, I specialize in building scalable applications using ReactJS, NodeJS, and PostgreSQL. Skilled in both front-end and back-end development, I am passionate about turning innovative ideas into reality and staying current with emerging technologies.
+With 3 years of hands-on experience in full-stack development, I specialize in building scalable applications using ReactJS, NodeJS, and PostgreSQL. Skilled in both front-end and back-end development, I am passionate about turning innovative ideas into reality and staying current with emerging technologies.
 
 ##### Currently, I’m Learning angularJS.
 ##### Previously, I worked as a Full Stack Developer at iBirds Software Services Pvt. Ltd., and I’m always open to new challenges and collaborations in the tech space.
 
 ### 🚀 Skills & Expertise
-- Frontend: ReactJS, NextJS, Bootstrap
+- Frontend: ReactJS, NextJS, Bootstrap,Redux,RTK Query
 - Backend: NodeJS, ExpressJs
 - Databases: MySQL, PostgreSQL
-- Cloud & DevOps: AWS, GitHub, Stripe Integration
+- Cloud & DevOps: AWS, GitHub, Stripe Integration,cPanel,BitBucket
 - Team Leadership: Agile methodologies, Project Planning
 
 ### 🎯 What I'm Passionate About
