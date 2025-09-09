@@ -22,7 +22,7 @@ I believe in pushing boundaries and staying on top of tech trends. I'm a self-dr
 ### 📫 Let’s Connect!
 Explore my projects, contribute ideas, or collaborate on exciting ventures. If you're looking for a developer who's passionate, proactive, and ready to tackle challenges head-on, let's connect and make things happen!
 - LinkedIn: [PrinceParmar](https://www.linkedin.com/in/prince-raja-parmar-200454135/)
-- Email: [PrinceParmar@gmail.com](prince0parmar@gmail.com)
+- Email: [Prince0Parmar@gmail.com](prince0parmar@gmail.com)
 - Skype: live:pp436643
   
 Feel free to reach out—I’m always up for a chat about technology, innovation, or potential opportunities!
